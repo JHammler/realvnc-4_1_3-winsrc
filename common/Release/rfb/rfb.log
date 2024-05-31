@@ -1,0 +1,169 @@
+﻿  Blacklist.cxx
+  CConnection.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\CConnection.cxx(110,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CMsgHandler.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CMsgReader.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CMsgReaderV3.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CMsgWriter.cxx
+  CMsgWriterV3.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ComparingUpdateTracker.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Configuration.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\Configuration.cxx(346,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\Configuration.cxx(352,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ConnParams.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\ConnParams.cxx(56,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\ConnParams.cxx(62,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CSecurityVncAuth.cxx
+  Cursor.cxx
+  Decoder.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Encoder.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  encodings.cxx
+  HextileDecoder.cxx
+  HextileEncoder.cxx
+  HTTPServer.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\HTTPServer.cxx(150,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\HTTPServer.cxx(155,19): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\HTTPServer.cxx(160,8): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\HTTPServer.cxx(164,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\HTTPServer.cxx(181,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\HTTPServer.cxx(229,23): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\HTTPServer.cxx(298,15): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  KeyRemapper.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\KeyRemapper.cxx(45,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Logger.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\Logger.cxx(85,3): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  Compiling...
+  Logger_file.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\Logger_file.cxx(57,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\Logger_file.cxx(60,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\Logger_file.cxx(68,29): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Logger_stdio.cxx
+  LogWriter.cxx
+  Password.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PixelBuffer.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PixelFormat.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(142,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(143,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(144,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(145,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(146,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(147,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(148,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(151,7): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(153,7): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(157,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(166,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(167,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(168,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(169,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(170,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(171,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(172,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(181,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(182,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(183,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(184,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(185,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(186,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(187,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(191,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(192,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(193,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(194,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(195,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(196,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(197,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(198,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(199,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(200,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(201,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(202,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(203,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(204,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\PixelFormat.cxx(212,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  RawDecoder.cxx
+  RawEncoder.cxx
+  Region.cxx
+  RREDecoder.cxx
+  RREEncoder.cxx
+  SConnection.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\SConnection.cxx(169,28): warning C4267: 'argument': conversion from 'size_t' to 'rdr::U8', possible loss of data
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\SConnection.cxx(117,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\SConnection.cxx(151,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  secTypes.cxx
+  ServerCore.cxx
+  SMsgHandler.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SMsgReader.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SMsgReaderV3.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SMsgWriter.cxx
+  SMsgWriterV3.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SSecurityFactoryStandard.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\SSecurityFactoryStandard.cxx(105,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  Compiling...
+  SSecurityVncAuth.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TransImageGetter.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  UpdateTracker.cxx
+  util.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\util.cxx(74,7): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  VNCSConnectionST.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rfb\VNCSConnectionST.cxx(230,16): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  VNCServerST.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ZRLEDecoder.cxx
+  ZRLEEncoder.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  d3des.c
+  rfb.vcxproj -> C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\Release\rfb.lib

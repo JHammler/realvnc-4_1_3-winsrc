@@ -1,0 +1,4 @@
+﻿  wm_hooks.cxx
+.\wm_hooks.def(2): warning LNK4017: DESCRIPTION statement not supported for the target platform; ignored
+     Creating library .\../Release/wm_hooks.lib and object .\../Release/wm_hooks.exp
+  wm_hooks.vcxproj -> C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\Release\wm_hooks.dll

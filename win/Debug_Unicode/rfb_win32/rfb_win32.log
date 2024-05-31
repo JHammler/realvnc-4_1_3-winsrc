@@ -1,0 +1,35 @@
+﻿  AboutDialog.cxx
+  CPointer.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\CPointer.cxx(57,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  CurrentUser.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SDisplay.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\SDisplay.cxx(122,9): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\SDisplay.cxx(127,16): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  Service.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\Service.cxx(142,5): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\Service.cxx(143,5): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\Service.cxx(408,3): warning C4996: '_swprintf': This function or variable may be unsafe. Consider using swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\Service.cxx(410,5): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\Service.cxx(411,5): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\Service.cxx(412,5): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\Service.cxx(448,5): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\Service.cxx(449,5): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\Service.cxx(505,3): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\Service.cxx(506,3): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\Service.cxx(638,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SocketManager.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\SocketManager.cxx(41,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\SocketManager.cxx(48,1): warning C4508: 'requestAddressChangeEvents': function should return a value; 'void' return type assumed
+  TCharArray.cxx
+  WMWindowCopyRect.cxx
+  Generating Code...

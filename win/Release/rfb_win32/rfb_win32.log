@@ -1,0 +1,19 @@
+﻿  AboutDialog.cxx
+  CPointer.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CurrentUser.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SDisplay.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\SDisplay.cxx(122,9): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\rfb_win32\SDisplay.cxx(127,16): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  SocketManager.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TCharArray.cxx
+  WMWindowCopyRect.cxx
+  Generating Code...
+  rfb_win32.vcxproj -> C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\win\Release\rfb_win32.lib

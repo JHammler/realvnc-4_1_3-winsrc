@@ -1,0 +1,39 @@
+﻿  Exception.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.cxx(30,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.cxx(41,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.cxx(63,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.cxx(67,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.cxx(70,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.cxx(71,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.cxx(72,3): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HexInStream.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  HexOutStream.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  RandomStream.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  FdInStream.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\FdInStream.cxx(163,20): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+  FdOutStream.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\FdOutStream.cxx(24,9): warning C4005: 'EWOULDBLOCK': macro redefinition
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  InStream.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ZlibInStream.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ZlibOutStream.cxx
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(33,9): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\rdr\Exception.h(35,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  rdr.vcxproj -> C:\Users\user\Documents\GitHub\realvnc-4_1_3-winsrc\common\Release\rdr.lib

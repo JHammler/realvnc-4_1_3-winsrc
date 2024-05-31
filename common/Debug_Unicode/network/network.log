@@ -1,0 +1,3 @@
+﻿  TcpSocket.cxx
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(1912,17): warning C4005: 'snprintf': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(1914,1): error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration

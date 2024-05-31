@@ -1,0 +1,11 @@
+﻿  Performing Custom Build Step
+  MC: Compiling messages.mc
+  Microsoft (R) Windows (R) Resource Compiler Version 10.0.10011.16384
+  
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  
+  Microsoft (R) Incremental Linker Version 14.40.33811.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+LINK : warning LNK4068: /MACHINE not specified; defaulting to X86
